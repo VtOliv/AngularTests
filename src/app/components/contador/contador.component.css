@@ -1,0 +1,26 @@
+button {
+    padding: 6px;
+    border-radius: 6px;
+}
+
+#mais {
+    background-color: green;
+    color: white;
+}
+
+#menos {
+    background-color: red;
+    color: white;
+}
+
+#reset {
+    background-color: yellow;
+}
+
+#fundo {
+    background-color: darkslategray;
+    width: 250px;
+    color: white;
+    border-radius: 6px;
+    border: 2px solid;
+}
